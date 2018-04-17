@@ -6,68 +6,68 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="tests" Type="Folder">
 		<Item Name="2" Type="Folder">
-			<Item Name="Test Available 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Available 2.vi"/>
-			<Item Name="Test Begin 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Begin 2.vi"/>
-			<Item Name="Test Create 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Create 2.vi"/>
-			<Item Name="Test Listen 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Listen 2.vi"/>
-			<Item Name="Test Overflow 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Overflow 2.vi"/>
-			<Item Name="Test Read 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Read 2.vi"/>
-			<Item Name="Test Write 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Write 2.vi"/>
-			<Item Name="Test PrintWithReturn 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test PrintWithReturn 2.vi"/>
-			<Item Name="Test Print 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/2/Test Print 2.vi"/>
+			<Item Name="Test Available 2.vi" Type="VI" URL="../tests/2/Test Available 2.vi"/>
+			<Item Name="Test Begin 2.vi" Type="VI" URL="../tests/2/Test Begin 2.vi"/>
+			<Item Name="Test Create 2.vi" Type="VI" URL="../tests/2/Test Create 2.vi"/>
+			<Item Name="Test Listen 2.vi" Type="VI" URL="../tests/2/Test Listen 2.vi"/>
+			<Item Name="Test Overflow 2.vi" Type="VI" URL="../tests/2/Test Overflow 2.vi"/>
+			<Item Name="Test Read 2.vi" Type="VI" URL="../tests/2/Test Read 2.vi"/>
+			<Item Name="Test Write 2.vi" Type="VI" URL="../tests/2/Test Write 2.vi"/>
+			<Item Name="Test PrintWithReturn 2.vi" Type="VI" URL="../tests/2/Test PrintWithReturn 2.vi"/>
+			<Item Name="Test Print 2.vi" Type="VI" URL="../tests/2/Test Print 2.vi"/>
 		</Item>
-		<Item Name="Test Available.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Available.vi"/>
-		<Item Name="Test Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Begin.vi"/>
-		<Item Name="Test Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Create.vi"/>
-		<Item Name="Test Read.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Read.vi"/>
-		<Item Name="Test Write.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Write.vi"/>
-		<Item Name="Test Overflow.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Overflow.vi"/>
-		<Item Name="Test Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Listen.vi"/>
-		<Item Name="Test Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test Print.vi"/>
-		<Item Name="Test PrintWithReturn.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/tests/Test PrintWithReturn.vi"/>
+		<Item Name="Test Available.vi" Type="VI" URL="../tests/Test Available.vi"/>
+		<Item Name="Test Begin.vi" Type="VI" URL="../tests/Test Begin.vi"/>
+		<Item Name="Test Create.vi" Type="VI" URL="../tests/Test Create.vi"/>
+		<Item Name="Test Read.vi" Type="VI" URL="../tests/Test Read.vi"/>
+		<Item Name="Test Write.vi" Type="VI" URL="../tests/Test Write.vi"/>
+		<Item Name="Test Overflow.vi" Type="VI" URL="../tests/Test Overflow.vi"/>
+		<Item Name="Test Listen.vi" Type="VI" URL="../tests/Test Listen.vi"/>
+		<Item Name="Test Print.vi" Type="VI" URL="../tests/Test Print.vi"/>
+		<Item Name="Test PrintWithReturn.vi" Type="VI" URL="../tests/Test PrintWithReturn.vi"/>
 	</Item>
 	<Item Name="debugging" Type="Folder">
-		<Item Name="Test Write in Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/debugging/Test Write in Loop.vi"/>
-		<Item Name="Test Reading Output to Serial 0.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/debugging/Test Reading Output to Serial 0.vi"/>
-		<Item Name="Test ReadingWriting to SoftwareSerial.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/debugging/Test ReadingWriting to SoftwareSerial.vi"/>
-		<Item Name="Test Print in Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/debugging/Test Print in Loop.vi"/>
-		<Item Name="Multiple Write in Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/debugging/Multiple Write in Loop.vi"/>
+		<Item Name="Test Write in Loop.vi" Type="VI" URL="../debugging/Test Write in Loop.vi"/>
+		<Item Name="Test Reading Output to Serial 0.vi" Type="VI" URL="../debugging/Test Reading Output to Serial 0.vi"/>
+		<Item Name="Test ReadingWriting to SoftwareSerial.vi" Type="VI" URL="../debugging/Test ReadingWriting to SoftwareSerial.vi"/>
+		<Item Name="Test Print in Loop.vi" Type="VI" URL="../debugging/Test Print in Loop.vi"/>
+		<Item Name="Multiple Write in Loop.vi" Type="VI" URL="../debugging/Multiple Write in Loop.vi"/>
 	</Item>
 	<Item Name="SoftwareSerial 1 functions" Type="Folder">
-		<Item Name="PrintWithReturn.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/PrintWithReturn.vi"/>
-		<Item Name="Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Print.vi"/>
-		<Item Name="Write.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Write.vi"/>
-		<Item Name="Read.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Read.vi"/>
-		<Item Name="Overflow.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Overflow.vi"/>
-		<Item Name="IsListening.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/IsListening.vi"/>
-		<Item Name="Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Listen.vi"/>
-		<Item Name="Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Create.vi"/>
-		<Item Name="Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Begin.vi"/>
-		<Item Name="Available.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Available.vi"/>
+		<Item Name="PrintWithReturn.vi" Type="VI" URL="../PrintWithReturn.vi"/>
+		<Item Name="Print.vi" Type="VI" URL="../Print.vi"/>
+		<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
+		<Item Name="Read.vi" Type="VI" URL="../Read.vi"/>
+		<Item Name="Overflow.vi" Type="VI" URL="../Overflow.vi"/>
+		<Item Name="IsListening.vi" Type="VI" URL="../IsListening.vi"/>
+		<Item Name="Listen.vi" Type="VI" URL="../Listen.vi"/>
+		<Item Name="Create.vi" Type="VI" URL="../Create.vi"/>
+		<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
+		<Item Name="Available.vi" Type="VI" URL="../Available.vi"/>
 	</Item>
 	<Item Name="SoftwareSerial 2 functions" Type="Folder">
-		<Item Name="PrintWithReturn 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/PrintWithReturn 2.vi"/>
-		<Item Name="Print 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Print 2.vi"/>
-		<Item Name="Write 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Write 2.vi"/>
-		<Item Name="Read 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Read 2.vi"/>
-		<Item Name="Overflow 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Overflow 2.vi"/>
-		<Item Name="Listen 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Listen 2.vi"/>
-		<Item Name="Begin 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Begin 2.vi"/>
-		<Item Name="IsListening 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/IsListening 2.vi"/>
-		<Item Name="Create 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Create 2.vi"/>
-		<Item Name="Available 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Available 2.vi"/>
+		<Item Name="PrintWithReturn 2.vi" Type="VI" URL="../PrintWithReturn 2.vi"/>
+		<Item Name="Print 2.vi" Type="VI" URL="../Print 2.vi"/>
+		<Item Name="Write 2.vi" Type="VI" URL="../Write 2.vi"/>
+		<Item Name="Read 2.vi" Type="VI" URL="../Read 2.vi"/>
+		<Item Name="Overflow 2.vi" Type="VI" URL="../Overflow 2.vi"/>
+		<Item Name="Listen 2.vi" Type="VI" URL="../Listen 2.vi"/>
+		<Item Name="Begin 2.vi" Type="VI" URL="../Begin 2.vi"/>
+		<Item Name="IsListening 2.vi" Type="VI" URL="../IsListening 2.vi"/>
+		<Item Name="Create 2.vi" Type="VI" URL="../Create 2.vi"/>
+		<Item Name="Available 2.vi" Type="VI" URL="../Available 2.vi"/>
 	</Item>
 	<Item Name="SoftwareSerial 3 functions" Type="Folder">
 		<Item Name="PrintWithReturn 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/PrintWithReturn 3.vi"/>
-		<Item Name="Print 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Print 3.vi"/>
-		<Item Name="Write 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Write 3.vi"/>
+		<Item Name="Print 3.vi" Type="VI" URL="../Print 3.vi"/>
+		<Item Name="Write 3.vi" Type="VI" URL="../Write 3.vi"/>
 		<Item Name="Read 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Read 3.vi"/>
 		<Item Name="Overflow 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Overflow 3.vi"/>
 		<Item Name="Listen 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Listen 3.vi"/>
-		<Item Name="IsListening 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/IsListening 3.vi"/>
-		<Item Name="Create 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Create 3.vi"/>
-		<Item Name="Begin 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Begin 3.vi"/>
+		<Item Name="IsListening 3.vi" Type="VI" URL="../IsListening 3.vi"/>
+		<Item Name="Create 3.vi" Type="VI" URL="../Create 3.vi"/>
+		<Item Name="Begin 3.vi" Type="VI" URL="../Begin 3.vi"/>
 		<Item Name="Available 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Available 3.vi"/>
 	</Item>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Translator.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
