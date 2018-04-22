@@ -58,16 +58,16 @@
 		<Item Name="Available 2.vi" Type="VI" URL="../Available 2.vi"/>
 	</Item>
 	<Item Name="SoftwareSerial 3 functions" Type="Folder">
-		<Item Name="PrintWithReturn 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/PrintWithReturn 3.vi"/>
+		<Item Name="PrintWithReturn 3.vi" Type="VI" URL="../PrintWithReturn 3.vi"/>
 		<Item Name="Print 3.vi" Type="VI" URL="../Print 3.vi"/>
 		<Item Name="Write 3.vi" Type="VI" URL="../Write 3.vi"/>
-		<Item Name="Read 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Read 3.vi"/>
-		<Item Name="Overflow 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Overflow 3.vi"/>
-		<Item Name="Listen 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Listen 3.vi"/>
+		<Item Name="Read 3.vi" Type="VI" URL="../Read 3.vi"/>
+		<Item Name="Overflow 3.vi" Type="VI" URL="../Overflow 3.vi"/>
+		<Item Name="Listen 3.vi" Type="VI" URL="../Listen 3.vi"/>
 		<Item Name="IsListening 3.vi" Type="VI" URL="../IsListening 3.vi"/>
 		<Item Name="Create 3.vi" Type="VI" URL="../Create 3.vi"/>
 		<Item Name="Begin 3.vi" Type="VI" URL="../Begin 3.vi"/>
-		<Item Name="Available 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino SoftwareSerial Wrapper/Available 3.vi"/>
+		<Item Name="Available 3.vi" Type="VI" URL="../Available 3.vi"/>
 	</Item>
 	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
